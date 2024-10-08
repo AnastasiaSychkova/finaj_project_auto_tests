@@ -1,0 +1,1 @@
+# finaj_project_auto_tests
